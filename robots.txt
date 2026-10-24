@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manikanttkd-stack.github.io/current-affairs-2026-/sitemap.xml
